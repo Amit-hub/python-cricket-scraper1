@@ -16,9 +16,9 @@ setup(
 	install_requires=["numpy", "pandas", "requests", "pyyaml"],
 	author="Kaushik Kakdey",
 	author_email="kaushik.kakdey@gmail.com",
-	url="https://github.com/kakdeykaushik/python-cricket-scraper",
+	url="https://github.com/Amit-hub/python-cricket-scraper1",
 	project_urls={
-        "Bug Tracker": "https://github.com/kakdeykaushik/python-cricket-scraper/issues",
+        "Bug Tracker": "https://github.com/Amit-hub/python-cricket-scraper1/issues",
     },
 	packages = find_packages(),
 	keywords= "espncricinfo cricket t20 odi test cricsheet",
